@@ -1,0 +1,5 @@
+C:\Git\EvaluacionTecnica\EvaluacionTecnica\Utilities\bin\Debug\Utilities.dll
+C:\Git\EvaluacionTecnica\EvaluacionTecnica\Utilities\bin\Debug\Utilities.pdb
+C:\Git\EvaluacionTecnica\EvaluacionTecnica\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Git\EvaluacionTecnica\EvaluacionTecnica\Utilities\obj\Debug\Utilities.dll
+C:\Git\EvaluacionTecnica\EvaluacionTecnica\Utilities\obj\Debug\Utilities.pdb
